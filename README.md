@@ -2,11 +2,11 @@
 
 C# ve Windows Forms kullanılarak geliştirilmiş basit bir adam asmaca oyunu.
 
-# Özellikler
+## Özellikler
 - Rastgele kelime seçimi
 - Harf tahmin sistemi
 
-# Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 - C#
 - Windows Forms
 - OOP
